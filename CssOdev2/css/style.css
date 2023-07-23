@@ -1,0 +1,121 @@
+.container {
+    padding: auto;
+}
+.logo {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.search-area {
+    margin-left: 25px;
+    margin-right: 25px;
+    background-color: rgb(233, 233, 233);
+    padding: 10px;
+}
+/* search area içindeki paragraf */
+.search-area p {
+    text-align: center;
+    font-size: 18px;
+    margin: 0px;
+}
+
+.buttons {
+    text-align: center;
+    margin-top: 8px;
+}
+
+.btns {
+    background-color: rgb(233, 233, 233);
+    border-radius: 4px;
+    margin: 2px;
+    border-style: solid;
+    border-color: black;
+    border-width: 1px;
+    padding: 4px;
+    
+}
+.btns2 {
+    margin: 2px;
+    padding: 4px;
+    text-decoration: solid;
+}
+
+.text-white{
+    color: black;
+    text-decoration: none;
+}
+
+.container input[type=text] {
+
+    margin-top: 0px;
+    margin-bottom: 4px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    font-size: 20px;
+
+}
+
+.search-links {
+    background-color: aquamarine;
+    float: left;
+    width: 38%;
+    height: 100px;
+}
+
+.about-links {
+    background-color:aquamarine;
+    float: left;
+    width: 23.5%;
+    height: 100px;
+    margin-left: 0.25%;
+    margin-right: 0.25%;
+}
+.mail-links {
+    background-color:rgb(111, 253, 206);
+    text-align: center;
+    float: right;
+    width: 38%;
+    height: 100px;
+}
+
+.bottom-nav {
+    margin-left: 25px;
+    margin-right: 25px;
+    text-align: center;
+    margin-top: 5px;
+}
+
+
+.list-search {
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    list-style: none;
+    padding: 5px 0px;
+}
+
+.list-about {
+    display: inline-block;
+    text-align: center;
+    list-style: none;
+    padding: 0px 2px;
+    
+}
+
+.text-blue {
+    color: blue;
+}
+
+.copyright {
+    text-align: center;
+}
+
+.footer {
+    display: inline-block;
+    width: 100%;
+}
+
+
+
+
